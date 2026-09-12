@@ -99,7 +99,7 @@
     "ONLINE": "Online",
     "PASTE_ON_SELECT": {
       "OFF": "Off",
-      "PASTE": "Paste",
+      "PASTE": "Επικόλληση",
       "TYPE": "Type"
     },
     "POSITION": {
@@ -134,47 +134,47 @@
   },
   "SETTINGS": {
     "BACKUP": {
-      "CHANGE_LOCATION": "Change location",
+      "CHANGE_LOCATION": "Αλλαγή θέσης",
       "CONFIG_LOCATION": "Config location",
-      "DATABASE_LOCATION": "Database location",
-      "OPEN": "Open",
-      "RESET_LOCATION": "Reset location",
-      "SYNC": "Sync",
+      "DATABASE_LOCATION": "Θέση βάσης δεδομένων",
+      "OPEN": "Άνοιγμα",
+      "RESET_LOCATION": "Επαναφορά θέσης",
+      "SYNC": "Συγχρονισμός",
       "SYNC_LIMIT": "How many clipboards should be synced?",
       "SYNCHRONIZE_CLIPBOARD_HISTORY": "Synchronize clipboard history"
     },
     "ENCRYPT": {
-      "CONFIRM_PASSWORD": "Confirm Password",
+      "CONFIRM_PASSWORD": "Επιβεβαίωση κωδικού πρόσβασης",
       "DECRYPT": "Decrypt all clipboards",
       "DECRYPTION_PROGRESS_LOCAL": "{{current}} from {{total}} clipboards are decrypted locally",
       "DOWNLOADING_REMOTE_CLIPBOARDS": "{{current}} from {{total}} downloading remote clipboards",
       "ENCRYPT": "Encrypt all clipboards",
-      "ENCRYPT_DECRYPT": "Encrypt / Decrypt",
+      "ENCRYPT_DECRYPT": "Κρυπτογράφηση / Αποκρυπτογράφηση",
       "ENCRYPTION_PROGRESS_LOCAL": "{{current}} from {{total}} clipboards are encrypted locally",
       "INFO": "All clipboards are encrypted, if password is lost nothing can be restored",
-      "PASSWORD": "Password",
+      "PASSWORD": "Κωδικός πρόσβασης",
       "SAVE_BEFORE_UNLOCK": "Save clipboards before the PIN has been entered on startup?"
     },
     "GENERAL": {
-      "CHANGE_LANGUAGE": "Change language",
-      "CHANGE_WINDOW_POSITION": "Change window position",
+      "CHANGE_LANGUAGE": "Αλλαγή γλώσσας",
+      "CHANGE_WINDOW_POSITION": "Αλλαγή θέσης παραθύρου",
       "COLOR_THEME": "Color theme",
       "GLASS_EFFECT": "Glass effect",
       "GLASS_OPACITY": "Glass tint",
       "GLASS_GRAIN": "Glass frost",
       "HTML_CLIPBOARD_TOOLTIP": "HTML clipboard tooltip",
-      "KEYBOARD_SHORTCUT": "Keyboard shortcut",
+      "KEYBOARD_SHORTCUT": "Συντόμευση πληκτρολογίου",
       "PASTE_ON_SELECT": "Paste on select",
       "PASTE_ON_SELECT_INFO": "Pastes the entry into the previously focused window. Terminals may need typing mode.",
       "START_CLIPPY_ON_STARTUP": "Start Clippy on system startup",
       "SUPPRESS_HOTKEY_ON_FULLSCREEN": "Hotkey Suppression",
       "SUPPRESS_HOTKEY_ON_FULLSCREEN_INFO": "Suppresses global hotkeys when another application is in fullscreen mode",
       "SWITCH_THEME": "Switch Theme",
-      "SYSTEM": "System",
-      "WINDOW_SCALE": "Window scale"
+      "SYSTEM": "Σύστημα",
+      "WINDOW_SCALE": "Κλίμακα παραθύρου"
     },
     "HISTORY": {
-      "CLEAR_ALL": "Clear All",
+      "CLEAR_ALL": "Εκκαθάριση όλων",
       "CLEAR_FILE": "Clear File",
       "CLEAR_HTML": "Clear Html",
       "CLEAR_IMAGE": "Clear Image",
@@ -197,24 +197,24 @@
       "MAX_TEXT_SIZE": "Max Text size"
     },
     "PATTERNS": {
-      "ACTIONS": "Actions",
-      "ADD": "Add",
+      "ACTIONS": "Ενέργειες",
+      "ADD": "Προσθήκη",
       "CHANGE_YOUR_TEXT_MATCHES": "Change your text matches",
       "ENABLED": "Enabled",
       "INFO": "Remove sensitive data from clipboards, define glob or regex pattern and it will be replaced with substitution (leave blank for empty)",
       "MATCH_EXPRESSION": "Match expression",
-      "REMOVE": "Remove",
+      "REMOVE": "Αφαίρεση",
       "SUBSTITUTION": "Substitution"
     },
-    "SETTINGS": "Settings",
+    "SETTINGS": "Ρυθμίσεις",
     "TAB": {
       "BACKUP": "Backup",
-      "ENCRYPTION": "Encryption",
-      "GENERAL": "General",
-      "HISTORY": "History",
-      "HOTKEYS": "Hotkeys",
+      "ENCRYPTION": "Κρυπτογράφηση",
+      "GENERAL": "Γενικά",
+      "HISTORY": "Ιστορικό",
+      "HOTKEYS": "Πλήκτρα πρόσβασης",
       "LIMITS": "Limits",
-      "PATTERNS": "Patterns"
+      "PATTERNS": "Μοτίβα"
     }
   }
 }
