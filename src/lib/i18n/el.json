@@ -158,18 +158,18 @@
     "GENERAL": {
       "CHANGE_LANGUAGE": "Αλλαγή γλώσσας",
       "CHANGE_WINDOW_POSITION": "Αλλαγή θέσης παραθύρου",
-      "COLOR_THEME": "Color theme",
-      "GLASS_EFFECT": "Glass effect",
-      "GLASS_OPACITY": "Glass tint",
-      "GLASS_GRAIN": "Glass frost",
+      "COLOR_THEME": "Θέμα χρωμάτων",
+      "GLASS_EFFECT": "Εφέ γυαλιού",
+      "GLASS_OPACITY": "Απόχρωση γυαλιού",
+      "GLASS_GRAIN": "Θάμπωμα γυαλιού",
       "HTML_CLIPBOARD_TOOLTIP": "HTML clipboard tooltip",
       "KEYBOARD_SHORTCUT": "Συντόμευση πληκτρολογίου",
       "PASTE_ON_SELECT": "Paste on select",
       "PASTE_ON_SELECT_INFO": "Pastes the entry into the previously focused window. Terminals may need typing mode.",
-      "START_CLIPPY_ON_STARTUP": "Start Clippy on system startup",
+      "START_CLIPPY_ON_STARTUP": "Εκκίνηση του Clippy κατά την εκκίνηση του συστήματος",
       "SUPPRESS_HOTKEY_ON_FULLSCREEN": "Hotkey Suppression",
       "SUPPRESS_HOTKEY_ON_FULLSCREEN_INFO": "Suppresses global hotkeys when another application is in fullscreen mode",
-      "SWITCH_THEME": "Switch Theme",
+      "SWITCH_THEME": "Εναλλαγή θέματος",
       "SYSTEM": "Σύστημα",
       "WINDOW_SCALE": "Κλίμακα παραθύρου"
     },
@@ -181,7 +181,7 @@
       "CLEAR_RTF": "Εκκαθάριση Rtf",
       "CLEAR_TEXT": "Εκκαθάριση κειμένου",
       "DATABASE_INFO": "{{records}} local items ({{size}}) are saved on this computer",
-      "SQL_DATABASE_INFO": "SQL Database info",
+      "SQL_DATABASE_INFO": "Πληροφορίες βάσης δεδομένων SQL",
       "STORAGE_ACTIONS": "Storage actions"
     },
     "HOTKEYS": {
